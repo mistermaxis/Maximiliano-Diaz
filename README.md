@@ -1,3 +1,5 @@
 # Maximiliano Diaz
 Maximiliano Diaz | Web Developer
-[Math Magicians](https://mistermaxis-mathmagicians.netlify.app/)
+#### Projects:
+- [Math Magicians](https://mistermaxis-mathmagicians.netlify.app/)
+- [Todo List](https://mistermaxis.github.io/ToDoList/)
